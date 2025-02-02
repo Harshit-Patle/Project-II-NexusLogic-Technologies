@@ -134,8 +134,8 @@ Contributions are welcome! Follow these steps to contribute:
 10. **Merge**:
     - Once approved, your PR will be merged into the main branch!
 
-## 🌐 Live Demo
-Check out the live demo of the dashboard: [Live Demo Link](#)
+<!-- ## 🌐 Live Demo
+Check out the live demo of the dashboard: [Live Demo Link](#) -->
 
 ## 👤 Author
 **Harshit Patle**
