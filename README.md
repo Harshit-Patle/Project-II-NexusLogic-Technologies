@@ -38,8 +38,7 @@ Ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/project-management-dashboard.git
-   cd project-management-dashboard
+   git clone https://github.com/Harshit-Patle/Project-II-NexusLogic-Technologies.git
    ```
 2. Install dependencies:
    ```sh
@@ -51,14 +50,11 @@ Ensure you have the following installed:
    ```
 4. Open your browser and navigate to:
    ```sh
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## 📂 Project Structure
 ```
-project-management-dashboard/
-│-- node_modules/
-│-- public/
 │-- src/
 │   ├── Components/
 │   │   ├── ui/
@@ -99,7 +95,7 @@ Contributions are welcome! Follow these steps to contribute:
 2. **Clone the Forked Repository**:
    - Clone the repository to your local machine using:
      ```sh
-     git clone https://github.com/yourusername/project-management-dashboard.git
+     git clone https://github.com/Harshit-Patle/Project-II-NexusLogic-Technologies.git
      ```
 
 3. **Create a New Branch**:
