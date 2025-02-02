@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-import { Progress } from "../Components/ui/progress";
-import { Card, CardHeader, CardTitle, CardContent } from "../components/ui/card";
+import { Progress } from "@/Components/ui/progress";
+import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Line } from "react-chartjs-2";
 import { Doughnut } from "react-chartjs-2";
 import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend, ArcElement } from "chart.js";
