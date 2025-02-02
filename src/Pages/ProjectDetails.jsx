@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-import { Progress } from "@/components/ui/progress";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { Progress } from "../Components/ui/progress";
+import { Card, CardHeader, CardTitle, CardContent } from "../components/ui/card";
 import { Line } from "react-chartjs-2";
 import { Doughnut } from "react-chartjs-2";
 import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend, ArcElement } from "chart.js";
@@ -203,9 +203,9 @@ const ProjectDetails = () => {
                 </div>
                 {task.status === "In Progress" && (
                   <div className="mt-4 space-y-2">
-                    <Progress 
-                      value={project.progress.tasks.find((p) => p.taskId === task.id)?.progress || 0} 
-                      className="h-2" 
+                    <Progress
+                      value={project.progress.tasks.find((p) => p.taskId === task.id)?.progress || 0}
+                      className="h-2"
                     />
                     <span className="text-sm text-gray-600">
                       {project.progress.tasks.find((p) => p.taskId === task.id)?.progress || 0}% Complete
