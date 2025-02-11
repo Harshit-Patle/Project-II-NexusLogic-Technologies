@@ -87,7 +87,7 @@ Ensure you have the following installed:
 
 ## 🌐 Live Demo
 Check out the live demo of the dashboard:
-🔹 **[Live Dashboard](https://project-ii-nexuslogic-technologies.vercel.app/)**
+🔹 **[Live Dashboard](https://project-ii-nexus-logic-technologies.vercel.app)**
 
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps to contribute:
