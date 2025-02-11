@@ -1,4 +1,4 @@
-# Project Management System Dashboard
+# 🎯 Project Management System Dashboard
 
 ## 📌 Project Overview
 The **Project Management System Dashboard** is a user-friendly frontend interface designed to provide quick insights into ongoing projects, track tasks, monitor progress, and analyze sales and budgets efficiently. The dashboard ensures seamless project management by offering real-time updates and visual analytics.
@@ -85,6 +85,10 @@ Ensure you have the following installed:
 - Notifications and Alerts for deadlines
 - Dark Mode support
 
+## 🌐 Live Demo
+Check out the live demo of the dashboard:
+🔹 **[Live Dashboard](https://project-ii-nexuslogic-technologies.vercel.app/)**
+
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps to contribute:
 
@@ -134,9 +138,6 @@ Contributions are welcome! Follow these steps to contribute:
 10. **Merge**:
     - Once approved, your PR will be merged into the main branch!
 
-<!-- ## 🌐 Live Demo
-Check out the live demo of the dashboard: [Live Demo Link](#) -->
-
 ## 👤 Author
 **Harshit Patle**
 
@@ -146,3 +147,6 @@ Check out the live demo of the dashboard: [Live Demo Link](#) -->
 - **[GitHub](https://github.com/Harshit-Patle)**  
 
 Frontend Web Development Intern at NexusLogic Technologies
+
+💙 *Star this repository ⭐ on GitHub if you found it useful!* 🚀
+
