@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import ProjectCard from '../Components/ProjectCard';
+import ProjectCard from '../components/ProjectCard';
 
 function Dashboard() {
     const [data, setData] = useState(null);
