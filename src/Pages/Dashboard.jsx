@@ -36,7 +36,7 @@ function Dashboard() {
     }
 
     return (
-        <div className="flex flex-row flex-wrap gap-4 p-4">
+        <div className="flex flex-row flex-wrap gap-3 p-4">
             {data.projects.map((project) => (
                 <ProjectCard
                     key={project.projectId}
