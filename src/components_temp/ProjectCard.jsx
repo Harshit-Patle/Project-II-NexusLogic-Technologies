@@ -1,7 +1,7 @@
 import React from "react";
-import { Card } from "@/components/ui/card"; // Update path if needed
-import { Progress } from "@/components/ui/progress";
-import { Button } from "@/components/ui/button";
+import { Card } from "@/components_temp/ui/card"; // Update path if needed
+import { Progress } from "@/components_temp/ui/progress";
+import { Button } from "@/components_temp/ui/button";
 import { Calendar, ChevronRight } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 

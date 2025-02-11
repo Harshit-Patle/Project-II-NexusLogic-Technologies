@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
-import { Progress } from "@/components/ui/progress";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { Progress } from "@/components_temp/ui/progress";
+import { Card, CardHeader, CardTitle, CardContent } from "@/components_temp/ui/card";
 import { Line } from "react-chartjs-2";
 import { Doughnut } from "react-chartjs-2";
 import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend, ArcElement } from "chart.js";
-import { Badge } from "@/components/ui/badge";
+import { Badge } from "@/components_temp/ui/badge";
 import { CalendarDays, DollarSign, AlertCircle } from "lucide-react";
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend, ArcElement);
